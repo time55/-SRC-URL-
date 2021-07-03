@@ -9,7 +9,7 @@
 ![Image text](https://github.com/time55/-SRC-URL-/blob/main/%E4%BF%AE%E6%94%B9cookie%E5%8F%82%E6%95%B0.png)
 2、如公益src页码发生变化，修改将get_butian_url.py页码值，也可不修改，看心情<br />
 ![Image text](https://github.com/time55/-SRC-URL-/blob/main/%E4%BF%AE%E6%94%B9%E9%A1%B5%E9%9D%A2%E5%80%BC.png)
-3、运行  python ./get_butian_url.py<br />
+3、运行  python ./get_butian_url.py  <br />
 ![Image text](https://github.com/time55/-SRC-URL-/blob/main/%E8%BF%90%E8%A1%8C.png)
 4、在根目录下生成excel表<br />
 ![Image text](https://github.com/time55/-SRC-URL-/blob/main/%E4%BA%A7%E7%94%9F%E7%BB%93%E6%9E%9C.png)
